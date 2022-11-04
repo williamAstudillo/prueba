@@ -13,5 +13,3 @@ primer commit rama prueba2
 segundo commit rama prueba2 
 
 tercer commit rama prueba2 
-asdfiauidoshasdihasd
-asfdsdfsdfgsdf
